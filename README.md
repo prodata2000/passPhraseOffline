@@ -46,7 +46,7 @@ Prompts the user for a seed value and generates the text block. This function sa
 
 ## Note
 
-Ensure that the `output.txt` file (or your desired wordlist file) is in the same directory as the script. The default wordlist file is `output.txt`.
+Ensure that the `output.txt` file (or your desired wordlist file) is in the same directory as the script. The default wordlist file is `output.txt`. A sample is provided.
 
 ## License
 
